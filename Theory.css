@@ -1,0 +1,20 @@
+html{overflow:hidden;}
+.divf
+{
+	position:fixed;  
+	top:100px; 
+	width: 100%;
+
+	background-color: #FFFFFF; 
+	font-size: 24px; 
+	text-align:center;
+	margin:0px;
+	padding:0px;
+}
+p
+{
+	text-align:center;
+	font-size: 14pt;
+	overflow:auto;
+	
+}
